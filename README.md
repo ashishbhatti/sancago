@@ -1,2 +1,2 @@
 # SanCago
-Secure and smart supply chain using hyperledger and IoT
+Secure and smart pharmaceutical supply chain using Blockchain and IoT.
